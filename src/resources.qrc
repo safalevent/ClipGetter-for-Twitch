@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="noClipImage">
+    <file>noClipImage.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>icon.png</file>
+  </qresource>
+  <qresource prefix="clipgetter">
+    <file>clipgetter.png</file>
+  </qresource>
+</RCC>
