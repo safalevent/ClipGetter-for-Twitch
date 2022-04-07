@@ -4,6 +4,8 @@
   Gets around 1000 clips at most, so you should specify your searching dates if you want to reach more clips.
 
   If the selected date to start searching is before 18 September 2006, ClipGetter ignores dates when searching.
+  
+![](https://github.com/safalevent/ClipGetter-for-Twitch/blob/master/imgs/ClipGetter.png?raw=true)
 
 ## Installing
 - You need a Twitch Developer account to register an app to Twitch. After the registration, Twitch will give you a Client ID and Client Secret. You can use the program by inserting client id and client secret to the related part in "ClipGetter.py".
